@@ -2,7 +2,7 @@
 
 ### Administrative Operations & Virtual Support
 
-I help businesses and professionals stay organized, productive, and on track through reliable administrative and virtual support.
+I help businesses and professionals stay organized, productive, and on track through reliable administrative operations and virtual support.
 
 My focus is on keeping information organized, coordinating tasks and schedules, managing records, and supporting smooth day-to-day operations.
 
@@ -15,7 +15,7 @@ My focus is on keeping information organized, coordinating tasks and schedules, 
 - Data Entry & Records Management
 - Document & File Organization
 - Internet Research
-- Digital Record Management
+- Digital Records Management
 - Administrative Reporting
 - Google Workspace
 - Microsoft Office
@@ -31,40 +31,43 @@ My focus is on keeping information organized, coordinating tasks and schedules, 
 - Google Forms
 - Microsoft Word
 - Microsoft Excel
-- Microsoft PowerPoint
 - Microsoft Outlook
 - Zoom
 - Microsoft Teams
+- GitHub
 
 ## 📁 Administrative Portfolio
 
-This profile showcases practical projects demonstrating how I organize information, manage administrative tasks, coordinate activities, maintain records, and support efficient workflows.
+This profile showcases practical administrative projects demonstrating how I organize information, manage tasks, coordinate meetings, maintain digital records, and support efficient workflows.
 
 ### Featured Projects
 
-📊 **Administrative Reporting Dashboard**  
-A sample reporting system for tracking administrative activities and performance metrics.
+📋 **Administrative Task Tracker**
 
-📅 **Meeting Management System**  
-A practical system for scheduling meetings, tracking attendance, managing agendas, and monitoring follow-up actions.
+A practical task management system for organizing administrative assignments, priorities, deadlines, follow-ups, and task status.
 
-📋 **Administrative Task Tracker**  
-A task management system for organizing assignments, priorities, deadlines, and completion status.
+📅 **Meeting & Calendar Management System**
 
-📂 **Digital Records Management System**  
-A structured approach to organizing digital files, records, and documents for easier access and retrieval.
+A structured system for meeting scheduling, attendee coordination, action-item tracking, deadlines, and follow-up management.
 
-💻 **Virtual Administrative Support Workflow**  
-A documented workflow showing how administrative requests can be received, prioritized, completed, reviewed, and followed up.
+📁 **Digital Records Management System**
+
+A structured document register for organizing business records, tracking document details, managing access levels, monitoring status, and scheduling reviews.
+
+### 📂 Portfolio Repository
+
+**Administrative Operations Portfolio**
+
+My complete administrative portfolio contains the Excel projects above and demonstrates practical skills in task management, meeting coordination, digital records management, data organization, and administrative support.
 
 ## 🎯 My Approach
 
 **Organization → Accuracy → Communication → Coordination → Efficiency**
 
-I aim to create organized systems and reliable administrative processes that help teams work more efficiently and stay focused on their priorities.
+I aim to create organized systems and reliable administrative processes that help teams work efficiently and stay focused on their priorities.
 
 ## 📫 Connect With Me
 
-I am open to opportunities in administrative operations, virtual support, administrative coordination, and remote administrative support.
+I am open to opportunities in administrative operations, administrative coordination, and virtual support.
 
-[LinkedIn](linkedin.com/in/ademola-adesanoye-727999138)
+[LinkedIn](https://linkedin.com/in/ademola-adesanoye-727999138)
