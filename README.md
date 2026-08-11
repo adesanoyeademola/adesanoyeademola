@@ -56,9 +56,7 @@ A structured document register for organizing business records, tracking documen
 
 ### 📂 Portfolio Repository
 
-**Administrative Operations Portfolio**
-
-My complete administrative portfolio contains the Excel projects above and demonstrates practical skills in task management, meeting coordination, digital records management, data organization, and administrative support.
+My portfolio showcases practical Excel-based projects that demonstrate my skills in task management, meeting coordination, digital records management, data organization, and efficient administrative support.
 
 ## 🎯 My Approach
 
