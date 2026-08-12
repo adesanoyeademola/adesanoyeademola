@@ -1,6 +1,6 @@
 # Hi, I'm Ademola Adesanoye 👋
 
-### Administrative Operations & Virtual Support
+### Administrative & Operations Support Professional
 
 I help businesses and professionals stay organized, productive, and on track through reliable administrative operations and virtual support.
 
