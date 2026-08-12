@@ -2,9 +2,9 @@
 
 ### Administrative & Operations Support Professional
 
-I help businesses and professionals stay organized, productive, and on track through reliable administrative, operations and virtual support.
+I help businesses and specialists stay organised, productive, and on track through reliable administrative, operations and virtual support.
 
-My focus is on keeping information organized, coordinating tasks and schedules, managing records, and supporting smooth day-to-day operations.
+My key strength lies in organising and keeping information, coordinating tasks and schedules, managing records, and supporting smooth day-to-day operations.
 
 ## 🗂️ Areas of Support
 
