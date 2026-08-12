@@ -66,6 +66,6 @@ I aim to create organized systems and reliable administrative processes that hel
 
 ## 📫 Connect With Me
 
-I am open to opportunities in administrative operations, administrative coordination, and virtual support.
+I am open to opportunities in administrative & operations support, administrative coordination, and virtual assistant.
 
 [LinkedIn](https://linkedin.com/in/ademola-adesanoye-727999138)
